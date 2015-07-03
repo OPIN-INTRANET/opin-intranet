@@ -1,0 +1,12 @@
+name = OPIN Migration
+core = 7.x
+package = OPIN
+version = 7.x-1.0
+project = opin_migration
+dependencies[] = bundle_copy
+dependencies[] = menu_import
+dependencies[] = migrate
+dependencies[] = migrate_d2d
+dependencies[] = migrate_ui
+dependencies[] = taxonomy_csv
+features[features_api][] = api:2

@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the OPIN Multilingual feature.
+ */
+
+include_once 'opin_multilingual.features.inc';

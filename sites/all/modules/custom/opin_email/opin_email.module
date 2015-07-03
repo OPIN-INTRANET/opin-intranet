@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the OPIN Email feature.
+ */
+
+include_once 'opin_email.features.inc';

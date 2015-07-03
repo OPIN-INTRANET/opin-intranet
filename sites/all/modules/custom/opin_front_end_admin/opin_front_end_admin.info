@@ -1,0 +1,17 @@
+name = OPIN Front-end Admin
+core = 7.x
+package = OPIN
+version = 7.x-1.0
+project = opin_front_end_admin
+dependencies[] = betterlogin
+dependencies[] = menu_attributes
+dependencies[] = module_filter
+dependencies[] = opin_core_chaos_tools
+dependencies[] = opin_features
+dependencies[] = semantic_fields
+dependencies[] = semanticviews
+dependencies[] = simplehtmldom
+dependencies[] = views_fieldset
+dependencies[] = views_infinite_scroll
+features[features_api][] = api:2
+project path = sites/all/modules/custom

@@ -1,0 +1,12 @@
+name = OPIN Toolbar
+core = 7.x
+package = OPIN
+version = 7.x-1.1
+project = opin_toolbar
+dependencies[] = navbar
+dependencies[] = opin_features
+dependencies[] = opin_libraries
+features[features_api][] = api:2
+features[user_permission][] = access navbar
+features_exclude[dependencies][features] = features
+project path = sites/all/modules/custom

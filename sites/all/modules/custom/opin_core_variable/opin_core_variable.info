@@ -1,0 +1,16 @@
+name = OPIN Core Variable
+description = Packaging Variable for OPIN Software features.
+core = 7.x
+package = OPIN
+version = 7.x-1.1
+project = opin_core_variable
+dependencies[] = i18n_variable
+dependencies[] = opin_core_chaos_tools
+dependencies[] = opin_core_strongarm
+dependencies[] = opin_features
+dependencies[] = variable
+dependencies[] = variable_admin
+dependencies[] = variable_realm
+dependencies[] = variable_store
+dependencies[] = variable_views
+features[features_api][] = api:2

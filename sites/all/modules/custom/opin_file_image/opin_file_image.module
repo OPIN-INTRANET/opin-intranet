@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the OPIN File & Image feature.
+ */
+
+include_once 'opin_file_image.features.inc';

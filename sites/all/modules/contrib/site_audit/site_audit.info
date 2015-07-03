@@ -1,0 +1,8 @@
+site_audit_version=1.13
+
+; Information added by Drupal.org packaging script on 2015-02-08
+version = "7.x-1.13"
+core = "7.x"
+project = "site_audit"
+datestamp = "1423427282"
+

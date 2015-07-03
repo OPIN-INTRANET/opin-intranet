@@ -1,0 +1,9 @@
+name = OPIN Workflow
+core = 7.x
+package = OPIN
+version = 7.x-1.0
+project = opin_workflow
+dependencies[] = workbench
+dependencies[] = workbench_access
+dependencies[] = workbench_moderation
+features[features_api][] = api:2

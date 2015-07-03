@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the OPIN Theming feature.
+ */
+
+include_once 'opin_theming.features.inc';

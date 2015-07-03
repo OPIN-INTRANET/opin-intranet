@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the OPIN Wysiwyg feature.
+ */
+
+include_once 'opin_wysiwyg.features.inc';

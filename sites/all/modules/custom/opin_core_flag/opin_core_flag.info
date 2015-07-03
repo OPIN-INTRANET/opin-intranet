@@ -1,0 +1,13 @@
+name = OPIN Core Flag
+description = Packaging Flag for OPIN Software features.
+core = 7.x
+package = OPIN
+version = 7.x-1.0
+project = opin_core_flag
+dependencies[] = flag
+dependencies[] = flag_actions
+dependencies[] = opin_core_chaos_tools
+dependencies[] = opin_core_strongarm
+dependencies[] = opin_features
+features[features_api][] = api:2
+project path = sites/all/modules/opin
