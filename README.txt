@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/OPIN-CA/checkpoint.svg?branch=master)](https://travis-ci.org/OPIN-CA/checkpoint)
+https://travis-ci.org/OPIN-CA/checkpoint.svg?branch=master
 
 CONTENTS OF THIS FILE
 ---------------------
