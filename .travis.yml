@@ -4,12 +4,8 @@ php:
   - 5.3
   - 5.4
   - 5.5
-  - hhvm
 
 matrix:
-  allow-failures:
-    - php: hhvm
-
   env:
     global:
       - ES_VER=1.0.1
@@ -74,9 +70,6 @@ after_script:
   - drush status
 
 notifications:
-# add your IRC here
-#  irc: irc.freenode.org#{CHANNEL}
-
 #  email: false
 #  slack:
 #    rooms:
