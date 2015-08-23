@@ -19,3 +19,6 @@
 [submodule "sites/all/modules/features/finance"]
 	path = sites/all/modules/features/finance
 	url = https://github.com/OPIN-INTRANET/finance.git
+[submodule "sites/all/modules/features/clients"]
+	path = sites/all/modules/features/clients
+	url = https://github.com/OPIN-INTRANET/clients.git
