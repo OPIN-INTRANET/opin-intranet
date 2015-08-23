@@ -400,3 +400,6 @@
 [submodule "profiles/checkpoint/modules/custom/navbar"]
 	path = profiles/checkpoint/modules/custom/navbar
 	url = http://git.drupal.org/project/navbar.git	
+[submodule "profiles/checkpoint/themes/adminimal_theme"]
+	path = profiles/checkpoint/themes/adminimal_theme
+	url = http://git.drupal.org/project/adminimal_theme.git
