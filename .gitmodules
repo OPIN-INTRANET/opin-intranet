@@ -13,3 +13,6 @@
 [submodule "sites/all/modules/features/projects"]
 	path = sites/all/modules/features/projects
 	url = https://github.com/OPIN-INTRANET/projects.git
+[submodule "sites/all/modules/features/contracts"]
+	path = sites/all/modules/features/contracts
+	url = https://github.com/OPIN-INTRANET/contracts.git
