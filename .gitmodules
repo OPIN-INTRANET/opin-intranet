@@ -1,0 +1,3 @@
+[submodule "sites/all/modules/features/common"]
+	path = sites/all/modules/features/common
+	url = https://github.com/OPIN-INTRANET/common.git
