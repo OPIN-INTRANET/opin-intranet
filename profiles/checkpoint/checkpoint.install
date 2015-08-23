@@ -388,5 +388,6 @@ function checkpoint_install() {
     ->condition('name', 'adminimal')
     ->execute();
   variable_set('admin_theme', 'adminimal');
+  variable_set('adminimal_theme_skin', 'material');
   variable_set('node_admin_theme', '1');
 }
