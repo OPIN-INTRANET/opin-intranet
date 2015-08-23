@@ -10,3 +10,6 @@
 [submodule "sites/all/modules/features/team_members"]
 	path = sites/all/modules/features/team_members
 	url = https://github.com/OPIN-INTRANET/team_members.git
+[submodule "sites/all/modules/features/projects"]
+	path = sites/all/modules/features/projects
+	url = https://github.com/OPIN-INTRANET/projects.git
