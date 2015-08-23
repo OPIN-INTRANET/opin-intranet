@@ -1,3 +1,6 @@
 [submodule "sites/all/modules/features/common"]
 	path = sites/all/modules/features/common
 	url = https://github.com/OPIN-INTRANET/common.git
+[submodule "sites/all/modules/features/research"]
+	path = sites/all/modules/features/research
+	url = https://github.com/OPIN-INTRANET/research.git
