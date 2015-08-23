@@ -7,3 +7,6 @@
 [submodule "sites/all/modules/features/sales"]
 	path = sites/all/modules/features/sales
 	url = https://github.com/OPIN-INTRANET/sales.git
+[submodule "sites/all/modules/features/team_members"]
+	path = sites/all/modules/features/team_members
+	url = https://github.com/OPIN-INTRANET/team_members.git
