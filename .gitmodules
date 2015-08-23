@@ -22,3 +22,345 @@
 [submodule "sites/all/modules/features/clients"]
 	path = sites/all/modules/features/clients
 	url = https://github.com/OPIN-INTRANET/clients.git
+[submodule "sites/all/modules/contrib/ace_editor"]
+	path = sites/all/modules/contrib/ace_editor
+	url = http://git.drupal.org/project/ace_editor.git
+[submodule "sites/all/modules/contrib/link"]
+	path = sites/all/modules/contrib/link
+	url = http://git.drupal.org/project/link.git
+[submodule "sites/all/modules/contrib/maxlength"]
+	path = sites/all/modules/contrib/maxlength
+	url = http://git.drupal.org/project/maxlength.git
+[submodule "sites/all/modules/contrib/media"]
+	path = sites/all/modules/contrib/media
+	url = http://git.drupal.org/project/media.git
+[submodule "sites/all/modules/contrib/admin_language"]
+	path = sites/all/modules/contrib/admin_language
+	url = http://git.drupal.org/project/admin_language.git
+[submodule "sites/all/modules/contrib/memcache"]
+	path = sites/all/modules/contrib/memcache
+	url = http://git.drupal.org/project/memcache.git
+[submodule "sites/all/modules/contrib/admin_menu"]
+	path = sites/all/modules/contrib/admin_menu
+	url = http://git.drupal.org/project/admin_menu.git
+[submodule "sites/all/modules/contrib/menu_attributes"]
+	path = sites/all/modules/contrib/menu_attributes
+	url = http://git.drupal.org/project/menu_attributes.git
+[submodule "sites/all/modules/contrib/admin_views"]
+	path = sites/all/modules/contrib/admin_views
+	url = http://git.drupal.org/project/admin_views.git
+[submodule "sites/all/modules/contrib/menu_block"]
+	path = sites/all/modules/contrib/menu_block
+	url = http://git.drupal.org/project/menu_block.git
+[submodule "sites/all/modules/contrib/menu_import"]
+	path = sites/all/modules/contrib/menu_import
+	url = http://git.drupal.org/project/menu_import.git
+[submodule "sites/all/modules/contrib/menu_position"]
+	path = sites/all/modules/contrib/menu_position
+	url = http://git.drupal.org/project/menu_position.git
+[submodule "sites/all/modules/contrib/metatag"]
+	path = sites/all/modules/contrib/metatag
+	url = http://git.drupal.org/project/metatag.git
+[submodule "sites/all/modules/contrib/bean"]
+	path = sites/all/modules/contrib/bean
+	url = http://git.drupal.org/project/bean.git
+[submodule "sites/all/modules/contrib/migrate"]
+	path = sites/all/modules/contrib/migrate
+	url = http://git.drupal.org/project/migrate.git
+[submodule "sites/all/modules/contrib/better_exposed_filters"]
+	path = sites/all/modules/contrib/better_exposed_filters
+	url = http://git.drupal.org/project/better_exposed_filters.git
+[submodule "sites/all/modules/contrib/migrate_d2d"]
+	path = sites/all/modules/contrib/migrate_d2d
+	url = http://git.drupal.org/project/migrate_d2d.git
+[submodule "sites/all/modules/contrib/ctools"]
+	path = sites/all/modules/contrib/ctools
+	url = http://git.drupal.org/project/ctools.git
+[submodule "sites/all/modules/contrib/date"]
+	path = sites/all/modules/contrib/date
+	url = http://git.drupal.org/project/date.git
+[submodule "sites/all/modules/contrib/password_policy"]
+	path = sites/all/modules/contrib/password_policy
+	url = http://git.drupal.org/project/password_policy.git
+[submodule "sites/all/modules/contrib/devel"]
+	path = sites/all/modules/contrib/devel
+	url = http://git.drupal.org/project/devel.git
+[submodule "sites/all/modules/contrib/pathauto"]
+	path = sites/all/modules/contrib/pathauto
+	url = http://git.drupal.org/project/pathauto.git
+[submodule "sites/all/modules/contrib/diff"]
+	path = sites/all/modules/contrib/diff
+	url = http://git.drupal.org/project/diff.git
+[submodule "sites/all/modules/contrib/picture"]
+	path = sites/all/modules/contrib/picture
+	url = http://git.drupal.org/project/picture.git
+[submodule "sites/all/modules/contrib/dragndrop_uploads"]
+	path = sites/all/modules/contrib/dragndrop_uploads
+	url = http://git.drupal.org/project/dragndrop_uploads.git
+[submodule "sites/all/modules/contrib/pm_existing_pages"]
+	path = sites/all/modules/contrib/pm_existing_pages
+	url = http://git.drupal.org/project/pm_existing_pages.git
+[submodule "sites/all/modules/contrib/querypath"]
+	path = sites/all/modules/contrib/querypath
+	url = http://git.drupal.org/project/querypath.git
+[submodule "sites/all/modules/contrib/email"]
+	path = sites/all/modules/contrib/email
+	url = http://git.drupal.org/project/email.git
+[submodule "sites/all/modules/contrib/redirect"]
+	path = sites/all/modules/contrib/redirect
+	url = http://git.drupal.org/project/redirect.git
+[submodule "sites/all/modules/contrib/entity"]
+	path = sites/all/modules/contrib/entity
+	url = http://git.drupal.org/project/entity.git
+[submodule "sites/all/modules/contrib/entity_translation"]
+	path = sites/all/modules/contrib/entity_translation
+	url = http://git.drupal.org/project/entity_translation.git
+[submodule "sites/all/modules/contrib/entityreference"]
+	path = sites/all/modules/contrib/entityreference
+	url = http://git.drupal.org/project/entityreference.git
+[submodule "sites/all/modules/contrib/search404"]
+	path = sites/all/modules/contrib/search404
+	url = http://git.drupal.org/project/search404.git
+[submodule "sites/all/modules/contrib/fapi_validation"]
+	path = sites/all/modules/contrib/fapi_validation
+	url = http://git.drupal.org/project/fapi_validation.git
+[submodule "sites/all/modules/contrib/semanticviews"]
+	path = sites/all/modules/contrib/semanticviews
+	url = http://git.drupal.org/project/semanticviews.git
+[submodule "sites/all/modules/contrib/site_audit"]
+	path = sites/all/modules/contrib/site_audit
+	url = http://git.drupal.org/project/site_audit.git
+[submodule "sites/all/modules/contrib/fences"]
+	path = sites/all/modules/contrib/fences
+	url = http://git.drupal.org/project/fences.git
+[submodule "sites/all/modules/contrib/site_verify"]
+	path = sites/all/modules/contrib/site_verify
+	url = http://git.drupal.org/project/site_verify.git
+[submodule "sites/all/modules/contrib/field_collection"]
+	path = sites/all/modules/contrib/field_collection
+	url = http://git.drupal.org/project/field_collection.git
+[submodule "sites/all/modules/contrib/field_formatter_settings"]
+	path = sites/all/modules/contrib/field_formatter_settings
+	url = http://git.drupal.org/project/field_formatter_settings.git
+[submodule "sites/all/modules/contrib/strongarm"]
+	path = sites/all/modules/contrib/strongarm
+	url = http://git.drupal.org/project/strongarm.git
+[submodule "sites/all/modules/contrib/field_group"]
+	path = sites/all/modules/contrib/field_group
+	url = http://git.drupal.org/project/field_group.git
+[submodule "sites/all/modules/contrib/taxonomy_csv"]
+	path = sites/all/modules/contrib/taxonomy_csv
+	url = http://git.drupal.org/project/taxonomy_csv.git
+[submodule "sites/all/modules/contrib/field_validation"]
+	path = sites/all/modules/contrib/field_validation
+	url = http://git.drupal.org/project/field_validation.git
+[submodule "sites/all/modules/contrib/title"]
+	path = sites/all/modules/contrib/title
+	url = http://git.drupal.org/project/title.git
+[submodule "sites/all/modules/contrib/file_entity"]
+	path = sites/all/modules/contrib/file_entity
+	url = http://git.drupal.org/project/file_entity.git
+[submodule "sites/all/modules/contrib/token"]
+	path = sites/all/modules/contrib/token
+	url = http://git.drupal.org/project/token.git
+[submodule "sites/all/modules/contrib/flag"]
+	path = sites/all/modules/contrib/flag
+	url = http://git.drupal.org/project/flag.git
+[submodule "sites/all/modules/contrib/user_import"]
+	path = sites/all/modules/contrib/user_import
+	url = http://git.drupal.org/project/user_import.git
+[submodule "sites/all/modules/contrib/userpoints"]
+	path = sites/all/modules/contrib/userpoints
+	url = http://git.drupal.org/project/userpoints.git
+[submodule "sites/all/modules/contrib/submodule"]
+	path = sites/all/modules/contrib/submodule
+	url = http://git.drupal.org/project/variable.git
+[submodule "sites/all/modules/contrib/hacked"]
+	path = sites/all/modules/contrib/hacked
+	url = http://git.drupal.org/project/hacked.git
+[submodule "sites/all/modules/contrib/views_bulk_operations"]
+	path = sites/all/modules/contrib/views_bulk_operations
+	url = http://git.drupal.org/project/views_bulk_operations.git
+[submodule "sites/all/modules/contrib/honeypot"]
+	path = sites/all/modules/contrib/honeypot
+	url = http://git.drupal.org/project/honeypot.git
+[submodule "sites/all/modules/contrib/views_fieldset"]
+	path = sites/all/modules/contrib/views_fieldset
+	url = http://git.drupal.org/project/views_fieldset.git
+[submodule "sites/all/modules/contrib/html5_tools"]
+	path = sites/all/modules/contrib/html5_tools
+	url = http://git.drupal.org/project/html5_tools.git
+[submodule "sites/all/modules/contrib/i18n"]
+	path = sites/all/modules/contrib/i18n
+	url = http://git.drupal.org/project/i18n.git
+[submodule "sites/all/modules/contrib/views_litepager"]
+	path = sites/all/modules/contrib/views_litepager
+	url = http://git.drupal.org/project/views_litepager.git
+[submodule "sites/all/modules/contrib/i18nviews"]
+	path = sites/all/modules/contrib/i18nviews
+	url = http://git.drupal.org/project/i18nviews.git
+[submodule "sites/all/modules/contrib/views_record_count"]
+	path = sites/all/modules/contrib/views_record_count
+	url = http://git.drupal.org/project/views_record_count.git
+[submodule "sites/all/modules/contrib/inline_entity_form"]
+	path = sites/all/modules/contrib/inline_entity_form
+	url = http://git.drupal.org/project/inline_entity_form.git
+[submodule "sites/all/modules/contrib/w3c_validator"]
+	path = sites/all/modules/contrib/w3c_validator
+	url = http://git.drupal.org/project/w3c_validator.git
+[submodule "sites/all/modules/contrib/workbench"]
+	path = sites/all/modules/contrib/workbench
+	url = http://git.drupal.org/project/workbench.git
+[submodule "sites/all/modules/contrib/ldap"]
+	path = sites/all/modules/contrib/ldap
+	url = http://git.drupal.org/project/ldap.git
+[submodule "sites/all/modules/contrib/workbench_moderation"]
+	path = sites/all/modules/contrib/workbench_moderation
+	url = http://git.drupal.org/project/workbench_moderation.git
+[submodule "sites/all/modules/contrib/leaflet_more_maps"]
+	path = sites/all/modules/contrib/leaflet_more_maps
+	url = http://git.drupal.org/project/leaflet_more_maps.git
+[submodule "sites/all/modules/contrib/xmlsitemap"]
+	path = sites/all/modules/contrib/xmlsitemap
+	url = http://git.drupal.org/project/xmlsitemap.git
+[submodule "sites/all/modules/contrib/betterlogin"]
+	path = sites/all/modules/contrib/betterlogin
+	url = http://git.drupal.org/project/betterlogin.git
+[submodule "sites/all/modules/contrib/calendar"]
+	path = sites/all/modules/contrib/calendar
+	url = http://git.drupal.org/project/calendar.git
+[submodule "sites/all/modules/contrib/clientside_validation"]
+	path = sites/all/modules/contrib/clientside_validation
+	url = http://git.drupal.org/project/clientside_validation.git
+[submodule "sites/all/modules/contrib/coder"]
+	path = sites/all/modules/contrib/coder
+	url = http://git.drupal.org/project/coder.git
+[submodule "sites/all/modules/contrib/context"]
+	path = sites/all/modules/contrib/context
+	url = http://git.drupal.org/project/context.git
+[submodule "sites/all/modules/contrib/elements"]
+	path = sites/all/modules/contrib/elements
+	url = http://git.drupal.org/project/elements.git
+[submodule "sites/all/modules/contrib/expire"]
+	path = sites/all/modules/contrib/expire
+	url = http://git.drupal.org/project/expire.git
+[submodule "sites/all/modules/contrib/geofield"]
+	path = sites/all/modules/contrib/geofield
+	url = http://git.drupal.org/project/geofield.git
+[submodule "sites/all/modules/contrib/geophp"]
+	path = sites/all/modules/contrib/geophp
+	url = http://git.drupal.org/project/geophp.git
+[submodule "sites/all/modules/contrib/globalredirect"]
+	path = sites/all/modules/contrib/globalredirect
+	url = http://git.drupal.org/project/globalredirect.git
+[submodule "sites/all/modules/contrib/google_analytics"]
+	path = sites/all/modules/contrib/google_analytics
+	url = http://git.drupal.org/project/google_analytics.git
+[submodule "sites/all/modules/contrib/google_image_sitemap"]
+	path = sites/all/modules/contrib/google_image_sitemap
+	url = http://git.drupal.org/project/google_image_sitemap.git
+[submodule "sites/all/modules/contrib/modernizr"]
+	path = sites/all/modules/contrib/modernizr
+	url = http://git.drupal.org/project/modernizr.git
+[submodule "sites/all/modules/contrib/module_filter"]
+	path = sites/all/modules/contrib/module_filter
+	url = http://git.drupal.org/project/module_filter.git
+[submodule "sites/all/modules/contrib/multiupload_filefield_widget"]
+	path = sites/all/modules/contrib/multiupload_filefield_widget
+	url = http://git.drupal.org/project/multiupload_filefield_widget.git
+[submodule "sites/all/modules/contrib/multiupload_imagefield_widget"]
+	path = sites/all/modules/contrib/multiupload_imagefield_widget
+	url = http://git.drupal.org/project/multiupload_imagefield_widget.git
+[submodule "sites/all/modules/contrib/navbar"]
+	path = sites/all/modules/contrib/navbar
+	url = http://git.drupal.org/project/navbar.git
+[submodule "sites/all/modules/contrib/pa11y_integration"]
+	path = sites/all/modules/contrib/pa11y_integration
+	url = http://git.drupal.org/project/pa11y_integration.git
+[submodule "sites/all/modules/contrib/page_title"]
+	path = sites/all/modules/contrib/page_title
+	url = http://git.drupal.org/project/page_title.git
+[submodule "sites/all/modules/contrib/panelizer"]
+	path = sites/all/modules/contrib/panelizer
+	url = http://git.drupal.org/project/panelizer.git
+[submodule "sites/all/modules/contrib/panels"]
+	path = sites/all/modules/contrib/panels
+	url = http://git.drupal.org/project/panels.git
+[submodule "sites/all/modules/contrib/references_dialog"]
+	path = sites/all/modules/contrib/references_dialog
+	url = http://git.drupal.org/project/references_dialog.git
+[submodule "sites/all/modules/contrib/rules"]
+	path = sites/all/modules/contrib/rules
+	url = http://git.drupal.org/project/rules.git
+[submodule "sites/all/modules/contrib/scheduler"]
+	path = sites/all/modules/contrib/scheduler
+	url = http://git.drupal.org/project/scheduler.git
+[submodule "sites/all/modules/contrib/seckit"]
+	path = sites/all/modules/contrib/seckit
+	url = http://git.drupal.org/project/seckit.git
+[submodule "sites/all/modules/contrib/facetapi_bonus"]
+	path = sites/all/modules/contrib/facetapi_bonus
+	url = http://git.drupal.org/project/facetapi_bonus.git
+[submodule "sites/all/modules/contrib/security_review"]
+	path = sites/all/modules/contrib/security_review
+	url = http://git.drupal.org/project/security_review.git
+[submodule "sites/all/modules/contrib/semantic_fields"]
+	path = sites/all/modules/contrib/semantic_fields
+	url = http://git.drupal.org/project/semantic_fields.git
+[submodule "sites/all/modules/contrib/features"]
+	path = sites/all/modules/contrib/features
+	url = http://git.drupal.org/project/features.git
+[submodule "sites/all/modules/contrib/services"]
+	path = sites/all/modules/contrib/services
+	url = http://git.drupal.org/project/services.git
+[submodule "sites/all/modules/contrib/features_translations"]
+	path = sites/all/modules/contrib/features_translations
+	url = http://git.drupal.org/project/features_translations.git
+[submodule "sites/all/modules/contrib/file_lock"]
+	path = sites/all/modules/contrib/file_lock
+	url = http://git.drupal.org/project/file_lock.git
+[submodule "sites/all/modules/contrib/translation_helpers"]
+	path = sites/all/modules/contrib/translation_helpers
+	url = http://git.drupal.org/project/translation_helpers.git
+[submodule "sites/all/modules/contrib/username_enumeration_prevention"]
+	path = sites/all/modules/contrib/username_enumeration_prevention
+	url = http://git.drupal.org/project/username_enumeration_prevention.git
+[submodule "sites/all/modules/contrib/variable"]
+	path = sites/all/modules/contrib/variable
+	url = http://git.drupal.org/project/variable.git
+[submodule "sites/all/modules/contrib/varnish"]
+	path = sites/all/modules/contrib/varnish
+	url = http://git.drupal.org/project/varnish.git
+[submodule "sites/all/modules/contrib/views"]
+	path = sites/all/modules/contrib/views
+	url = http://git.drupal.org/project/views.git
+[submodule "sites/all/modules/contrib/googlenews"]
+	path = sites/all/modules/contrib/googlenews
+	url = http://git.drupal.org/project/googlenews.git
+[submodule "sites/all/modules/contrib/views_autocomplete_filters"]
+	path = sites/all/modules/contrib/views_autocomplete_filters
+	url = http://git.drupal.org/project/views_autocomplete_filters.git
+[submodule "sites/all/modules/contrib/hierarchical_select"]
+	path = sites/all/modules/contrib/hierarchical_select
+	url = http://git.drupal.org/project/hierarchical_select.git
+[submodule "sites/all/modules/contrib/views_datasource"]
+	path = sites/all/modules/contrib/views_datasource
+	url = http://git.drupal.org/project/views_datasource.git
+[submodule "sites/all/modules/contrib/views_infinite_scroll"]
+	path = sites/all/modules/contrib/views_infinite_scroll
+	url = http://git.drupal.org/project/views_infinite_scroll.git
+[submodule "sites/all/modules/contrib/jquery_update"]
+	path = sites/all/modules/contrib/jquery_update
+	url = http://git.drupal.org/project/jquery_update.git
+[submodule "sites/all/modules/contrib/l10n_update"]
+	path = sites/all/modules/contrib/l10n_update
+	url = http://git.drupal.org/project/l10n_update.git
+[submodule "sites/all/modules/contrib/workbench_access"]
+	path = sites/all/modules/contrib/workbench_access
+	url = http://git.drupal.org/project/workbench_access.git
+[submodule "sites/all/modules/contrib/leaflet"]
+	path = sites/all/modules/contrib/leaflet
+	url = http://git.drupal.org/project/leaflet.git
+[submodule "sites/all/modules/contrib/wysiwyg"]
+	path = sites/all/modules/contrib/wysiwyg
+	url = http://git.drupal.org/project/wysiwyg.git
