@@ -1,4 +1,6 @@
-[![Build Status](https://travis-ci.org/OPIN-CA/checkpoint.svg?branch=master)](https://travis-ci.org/OPIN-CA/checkpoint)
+[![Build Status](https://magnum.travis-ci.com/OPIN-INTRANET/opin-intranet.svg?token=XXsFCeFBRo6GzEMc4tx5)](https://magnum.travis-ci.com/OPIN-INTRANET/opin-intranet)
+
+# Intranet
 
 CONTENTS OF THIS FILE
 ---------------------
