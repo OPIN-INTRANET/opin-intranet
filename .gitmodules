@@ -367,3 +367,36 @@
 [submodule "sites/all/modules/contrib/libraries"]
 	path = sites/all/modules/contrib/libraries
 	url = http://git.drupal.org/project/libraries.git
+[submodule "sites/all/modules/contrib/composer_manager"]
+	path = sites/all/modules/contrib/composer_manager
+	url = http://git.drupal.org/project/composer_manager.git
+[submodule "sites/all/modules/contrib/search_api"]
+	path = sites/all/modules/contrib/search_api
+	url = http://git.drupal.org/project/search_api.git
+[submodule "sites/all/modules/contrib/addressfield"]
+	path = sites/all/modules/contrib/addressfield
+	url = http://git.drupal.org/project/addressfield.git
+[submodule "sites/all/modules/contrib/views_aggregator"]
+	path = sites/all/modules/contrib/views_aggregator
+	url = http://git.drupal.org/project/views_aggregator.git
+[submodule "sites/all/modules/contrib/views_data_export"]
+	path = sites/all/modules/contrib/views_data_export
+	url = http://git.drupal.org/project/views_data_export.git
+[submodule "sites/all/modules/contrib/facetapi"]
+	path = sites/all/modules/contrib/facetapi
+	url = http://git.drupal.org/project/facetapi.git
+[submodule "sites/all/modules/contrib/blazemeter"]
+	path = sites/all/modules/contrib/blazemeter
+	url = http://git.drupal.org/project/blazemeter.git
+[submodule "sites/all/modules/contrib/smtp"]
+	path = sites/all/modules/contrib/smtp
+	url = http://git.drupal.org/project/smtp.git
+[submodule "sites/all/modules/contrib/breakpoints"]
+	path = sites/all/modules/contrib/breakpoints
+	url = http://git.drupal.org/project/breakpoints.git
+[submodule "sites/all/modules/contrib/search_api_solr"]
+	path = sites/all/modules/contrib/search_api_solr
+	url = http://git.drupal.org/project/search_api_solr.git
+[submodule "sites/all/modules/contrib/votingapi"]
+	path = sites/all/modules/contrib/votingapi
+	url = http://git.drupal.org/project/votingapi.git
