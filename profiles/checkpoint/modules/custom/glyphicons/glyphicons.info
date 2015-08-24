@@ -1,0 +1,4 @@
+name = Glyphicons
+description = A simple module that is required for the Ckeditor Glyphicons functionality.
+core = 7.x
+package = Wysiwyg

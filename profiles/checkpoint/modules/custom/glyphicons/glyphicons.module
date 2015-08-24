@@ -1,0 +1,26 @@
+<?php
+
+/**
+ * @file
+ * A simple module that is required for the Ckeditor Glyphicons functionality.
+ */
+
+/**
+ * Implements hook_help().
+ */
+function glyphicons_help($path, $arg) { { 
+  # The help text for the glyphicons module
+  switch ($path) {            
+    case 'admin/help#glyphicons':
+      return '<p>' . t('A simple module that is required for the Ckeditor Glyphicons functionality.') .'</p>';
+  }
+}
+
+/**
+ * Implements hook_form().
+ */
+function glyphicons_form($node, &$form_state) {  
+  # Add the required javascript.
+  drupal_add_js('CKEDITOR.dtd.$removeEmpty['span'] = false;', 'inline');
+  return $form;
+}

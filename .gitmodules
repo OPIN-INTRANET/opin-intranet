@@ -403,3 +403,6 @@
 [submodule "profiles/checkpoint/themes/adminimal_theme"]
 	path = profiles/checkpoint/themes/adminimal_theme
 	url = http://git.drupal.org/project/adminimal_theme.git
+[submodule "profiles/checkpoint/libraries/ckeditor"]
+	path = profiles/checkpoint/libraries/ckeditor
+	url = https://github.com/OPIN-INTRANET/ckeditor.git
