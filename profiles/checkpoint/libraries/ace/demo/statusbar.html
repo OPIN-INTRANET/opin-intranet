@@ -41,17 +41,19 @@
 <pre id="editor"></pre>
 <div id="statusBar">ace rocks!</div>
     
-<script src="../build/src-noconflict/ace.js"></script>
-<script src="../build/src-noconflict/ext-statusbar.js"></script>
+<!-- load ace -->
+<script src="../src/ace.js"></script>
+<!-- load ace statusbar extension -->
+<script src="../src/ext-statusbar.js"></script>
 <script>
     var editor = ace.edit("editor");
-    var StatusBar = ace.require('ace/ext/statusbar').StatusBar;
+    var StatusBar = ace.require("ace/ext/statusbar").StatusBar;
     // create a simple selection status indicator
-    var statusBar = new StatusBar(editor, document.getElementById('statusBar'));
+    var statusBar = new StatusBar(editor, document.getElementById("statusBar"));
     editor.setTheme("ace/theme/dawn");
     editor.session.setMode("ace/mode/html");
 </script>
 
-<script src="./demo_helper.js"></script>
+<script src="./show_own_source.js"></script>
 </body>
 </html>

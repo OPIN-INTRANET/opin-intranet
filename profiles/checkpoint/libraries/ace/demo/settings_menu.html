@@ -23,8 +23,10 @@
 
 <pre id="editor"></pre>
     
-<script src="../build/src-noconflict/ace.js"></script>
-<script src="../build/src-noconflict/ext-settings_menu.js"></script>
+<!-- load ace -->
+<script src="../src/ace.js"></script>
+<!-- load ace settings_menu extension -->
+<script src="../src/ext-settings_menu.js"></script>
 <script>
     var editor = ace.edit("editor");
     ace.require('ace/ext/settings_menu').init(editor);
@@ -40,6 +42,6 @@
 	}]);
 </script>
 
-<script src="./demo_helper.js"></script>
+<script src="./show_own_source.js"></script>
 </body>
 </html>
