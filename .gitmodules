@@ -382,3 +382,6 @@
 [submodule "profiles/checkpoint/modules/contrib/auto_entitylabel"]
 	path = profiles/checkpoint/modules/contrib/auto_entitylabel
 	url = http://git.drupal.org/project/auto_entitylabel.git
+[submodule "profiles/checkpoint/modules/contrib/advanced_help"]
+	path = profiles/checkpoint/modules/contrib/advanced_help
+	url = http://git.drupal.org/project/advanced_help.git
