@@ -379,3 +379,6 @@
 [submodule "profiles/checkpoint/libraries/ckeditor"]
 	path = profiles/checkpoint/libraries/ckeditor
 	url = https://github.com/OPIN-INTRANET/ckeditor.git
+[submodule "profiles/checkpoint/modules/contrib/auto_entitylabel"]
+	path = profiles/checkpoint/modules/contrib/auto_entitylabel
+	url = http://git.drupal.org/project/auto_entitylabel.git
