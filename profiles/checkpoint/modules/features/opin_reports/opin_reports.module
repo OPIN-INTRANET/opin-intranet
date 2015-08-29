@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the OPIN Reports feature.
- */
-
-include_once 'opin_reports.features.inc';

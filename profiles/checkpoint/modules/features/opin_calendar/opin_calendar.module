@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the OPIN Calendar feature.
- */
-
-include_once 'opin_calendar.features.inc';

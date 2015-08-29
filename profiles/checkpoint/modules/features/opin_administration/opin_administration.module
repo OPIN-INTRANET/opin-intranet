@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the OPIN Administration feature.
- */
-
-include_once 'opin_administration.features.inc';

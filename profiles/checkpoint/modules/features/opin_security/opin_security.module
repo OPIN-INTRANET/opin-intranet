@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the OPIN Security feature.
- */
-
-include_once 'opin_security.features.inc';
