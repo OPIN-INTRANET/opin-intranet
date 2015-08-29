@@ -5,3 +5,6 @@ sites/*/settings*.php
 sites/*/files
 sites/*/private
 sites/all/modules/features
+
+# Project files for PHPStorm
+.idea
